@@ -1,0 +1,6 @@
+charset, Shift_JIS
+name,–z•ú“e‚Æ“¯"«"¶Šˆ
+type,ghost
+directory,AllYearHare
+refresh,0
+
